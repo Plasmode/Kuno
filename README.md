@@ -1,9 +1,8 @@
 # Kuno
-Kuno is a P90CE201 SBC for Arduino Mega Enclosure
+Kuno is a P90CE201 SBC for Arduino Mega Enclosure. The name “Kuno” is concatenation of “K” of 68000 or 68K and “uno” of Arduino. Kuno is P90MB repackaged for Arduino Mega Enclosure.
 
 ![kuno](kuno_p90ce201_rev0_topview_arduino.jpg)
-### Introduction
-The name “Kuno” is concatenation of “K” of 68000 or 68K and “uno” of Arduino. Kuno is P90MB repackaged for Arduino Mega Enclosure.
+
 ### Features
 - P90CE201 at 22MHz
 - 512K PROM
@@ -13,6 +12,7 @@ The name “Kuno” is concatenation of “K” of 68000 or 68K and “uno” of
 - I2C connectors
 - RC2014 I/O expansion bus
 - CP/M68K ready
+
 ![kuno-annotated](kuno_p90ce201_rev0_topview_annotated.jpg)
 
 ### Design Files
